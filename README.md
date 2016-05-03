@@ -1,2 +1,2 @@
-# VisGeek.Test.DisposableUsage
+# VisGeek.DisposableUsage
 C# Dispose パターンの例
