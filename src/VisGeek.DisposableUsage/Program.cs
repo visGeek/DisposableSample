@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VisGeek.DisposableUsage {
+namespace VisGeek.DisposableSample {
 	internal class Program {
 		internal static void Main(string[] args) {
 			Console.WriteLine("■using を使った破棄処理の例です。");
