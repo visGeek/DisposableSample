@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VisGeek.Test.DisposableUsage {
+namespace VisGeek.DisposableUsage {
 	/// <summary>処理の例
 	/// </summary>
 	internal static class Samples {

@@ -7,8 +7,8 @@
     <ProjectGuid>{AD9E9953-FB68-4C04-8F54-DCFD7033AD59}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VisGeek.Test.DisposableUsage</RootNamespace>
-    <AssemblyName>VisGeek.Test.DisposableUsage</AssemblyName>
+    <RootNamespace>VisGeek.DisposableUsage</RootNamespace>
+    <AssemblyName>VisGeek.DisposableUsage</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
