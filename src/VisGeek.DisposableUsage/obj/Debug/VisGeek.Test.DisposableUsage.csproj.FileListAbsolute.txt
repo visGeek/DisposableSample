@@ -1,0 +1,6 @@
+C:\Documents\Visual Studio 2015\Projects\VisGeek.DisposableUsage\VisGeek.DisposableUsage\bin\Debug\VisGeek.Test.DisposableUsage.exe.config
+C:\Documents\Visual Studio 2015\Projects\VisGeek.DisposableUsage\VisGeek.DisposableUsage\bin\Debug\VisGeek.Test.DisposableUsage.exe
+C:\Documents\Visual Studio 2015\Projects\VisGeek.DisposableUsage\VisGeek.DisposableUsage\bin\Debug\VisGeek.Test.DisposableUsage.pdb
+C:\Documents\Visual Studio 2015\Projects\VisGeek.DisposableUsage\VisGeek.DisposableUsage\obj\Debug\VisGeek.Test.DisposableUsage.csprojResolveAssemblyReference.cache
+C:\Documents\Visual Studio 2015\Projects\VisGeek.DisposableUsage\VisGeek.DisposableUsage\obj\Debug\VisGeek.Test.DisposableUsage.exe
+C:\Documents\Visual Studio 2015\Projects\VisGeek.DisposableUsage\VisGeek.DisposableUsage\obj\Debug\VisGeek.Test.DisposableUsage.pdb
